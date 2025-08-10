@@ -28,8 +28,8 @@ This is the backend for a banking system application. It provides APIs for user 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dshathwikr/banking-system-backend.git
-   cd banking-system-backend
+   git clone https://github.com/shathwik30/Banking-System.git
+   cd Banking-System/server
    ```
 
 2. Install dependencies:
